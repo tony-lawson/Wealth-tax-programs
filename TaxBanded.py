@@ -217,7 +217,7 @@ def setwealthpower(a):
     elif p == 20000000:
         wealthpower = 1.09 # population 20,000,000
     elif p == 10000000:
-        wealthpower = 1.05 # population 10,000,000
+        wealthpower = 1.09 # population 10,000,000
     elif p == 1000000:
         wealthpower = 1.11 # population 1,000,000
     elif p == 100000:
